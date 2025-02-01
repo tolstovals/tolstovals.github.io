@@ -1,0 +1,22 @@
+.list {
+ color:black; 
+text-align: left;
+font-weight: lighter;
+font-size: 11px;
+}
+
+.title {
+    color:black;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif
+}
+
+.title2 {
+    color:darkgrey;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 25px;
+    font-family:Snell Roundhand
+}
